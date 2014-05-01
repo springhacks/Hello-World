@@ -1,5 +1,5 @@
 <?php
 	echo "Hello World!";
 	echo "branch A";
-	echo "branch Aです";
+	echo "brahdn A で加えた変更"
 ?>
